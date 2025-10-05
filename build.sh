@@ -13,4 +13,4 @@ mv rMatGraph gridGraph randLocalGraph SNAPtoAdj wghSNAPtoAdj adjGraphAddWeights 
 rm utils.h parseCommandLine.h parallel.h quickSort.h
 cd ../
 
-bin/rMatGraph 200000000 graph/rMat_200000000
+bin/rMatGraph 100000000 graph/rMat_100000000
